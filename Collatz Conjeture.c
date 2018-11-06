@@ -1,4 +1,5 @@
-/*La conjetura de Collatz, conocida también como conjetura 3n+1 o conjetura de Ulam (entre otros nombres), fue enunciada por el matemático Lothar Collatz en 1937, y a la fecha no se ha resuelto.*/
+/*La conjetura de Collatz, conocida también como conjetura 3n+1 o conjetura de Ulam (entre otros nombres), 
+fue enunciada por el matemático Lothar Collatz en 1937, y a la fecha no se ha resuelto.*/
 #include<conio.h>
 #include<stdio.h>
 #include<stdlib.h>
